@@ -1,0 +1,44 @@
+nav,a {
+  background-color: #3B5998 !important;
+  color: #FFFFFF !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.glyphicon-home{
+  color: white !important;
+}
+
+.form-control{
+  color: #444444 !important;
+}
+
+body{
+  background-color: #DBE5E6
+}
+
+#coldroite{
+  background-color: white;
+  padding: 10px;
+}
+
+.navbar-right{
+  padding-top: 5px;
+}
+
+li{
+  list-style: none;
+}
+
+footer a{
+  background-color : transparent !important;
+  color: black !important;
+  padding: 25px !important;
+}
+
+.Titre{
+  margin: 0!important;
+}
+
+textarea{
+  resize: none;
+}
