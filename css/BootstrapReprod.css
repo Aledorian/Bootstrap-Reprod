@@ -1,4 +1,4 @@
-nav,a {
+#bar,#navbar-right {
   background-color: #3B5998 !important;
   color: #FFFFFF !important;
   margin: 0 !important;
@@ -12,7 +12,7 @@ nav,a {
   color: #444444 !important;
 }
 
-body{
+body  {
   background-color: #DBE5E6
 }
 
@@ -41,4 +41,22 @@ footer a{
 
 textarea{
   resize: none;
+}
+
+#partGauche{
+  background-color: grey!important;
+  padding: 50px;
+}
+
+.objGauche{
+  background-color: lightgray !important;
+}
+
+.objDroite{
+  background-color: #555555 !important;
+}
+
+.faischier{
+  margin: 14px!important;
+  background-color: #888;
 }
